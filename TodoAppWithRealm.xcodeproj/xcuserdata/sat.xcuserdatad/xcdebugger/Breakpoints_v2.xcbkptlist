@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B388668E-D4D7-410A-9238-22903903D0CE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B64BBCBA-4B4C-41F3-AA2C-79CF83CDD223"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TodoAppWithRealm/ViewModel/ItemViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B64BBCBA-4B4C-41F3-AA2C-79CF83CDD223 - a473e4e3b8bafc67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoAppWithRealm.ItemViewModel.fetchData() -&gt; ()"
+                  moduleName = "TodoAppWithRealm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sat/Xcode/TodoAppWithRealm/TodoAppWithRealm/ViewModel/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "B64BBCBA-4B4C-41F3-AA2C-79CF83CDD223 - 97f98a5b0188c95d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TodoAppWithRealm.Item) -&gt; Swift.Optional&lt;TodoAppWithRealm.Item&gt; in TodoAppWithRealm.ItemViewModel.fetchData() -&gt; ()"
+                  moduleName = "TodoAppWithRealm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sat/Xcode/TodoAppWithRealm/TodoAppWithRealm/ViewModel/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
