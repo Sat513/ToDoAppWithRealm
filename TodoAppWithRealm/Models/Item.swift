@@ -9,7 +9,7 @@ import SwiftUI
 import RealmSwift
 
 class Item: Object, Identifiable {
-    @objc var id: Date = Date()
-    @objc var title = ""
-    @objc var detail = ""
+    @objc dynamic var id: Date = Date()
+    @objc dynamic var title = ""
+    @objc dynamic var detail = ""
 }
